@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-💬 Overview: I am Byte-a, I'm a Programmer and Penetration Tester, and an over all Tech Enthusiast.
+💬 Overview: I'm Byte-a, a programmer,  pentester, and an over all tech enthusiast.
 
 ## 💬 Languages
- -Java
- -HTML5
- -CSS3
- -Batch
- -VBS
+ - Java
+ - HTML5
+ - CSS3
+ - Batch
+ - VBS
  
 ## 🔭 I’m currently working on
-  -DSArchive
-  -HellionOS
+  - DSArchive
+  - HellionOS
  
 ## 🌱 I’m currently learning
- -Python3
+ - Python3
