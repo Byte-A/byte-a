@@ -10,7 +10,7 @@
  - VBS
  
 ## 🔭 I’m currently working on
-  - DSArchive
+  - Working with my team Duval Studios on DSArchive
   - HellionOS
  
 ## 🌱 I’m currently learning
