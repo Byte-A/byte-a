@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💬 Overview: I'm Byte-a, a programmer,  pentester, and an over all tech enthusiast.
+💬 Overview: I'm Byte-A, a programmer, pentester, and an over all tech enthusiast. GNU Linux? Yea, thats my jam.
 
 ## 💬 Languages
  - ☕ Java ☕
